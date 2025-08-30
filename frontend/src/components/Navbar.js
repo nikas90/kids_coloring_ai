@@ -69,7 +69,7 @@ const Navbar = () => {
   const navItems = [
     { text: 'Color', icon: <BrushIcon sx={{ mr: 1 }} />, path: '/color' },
     { text: 'Gallery', icon: <ImageIcon sx={{ mr: 1 }} />, path: '/gallery' },
-    ...(isAuthenticated ? [{ text: 'My Creations', icon: <PaletteIcon sx={{ mr: 1 }} />, path: '/creations' }] : []),
+    ...(isAuthenticated ? [{ text: 'My Creations', icon: <PaletteIcon sx={{ mr: 1 }} />, path: '/my-creations' }] : []),
   ];
 
   return (

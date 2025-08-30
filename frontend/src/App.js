@@ -10,6 +10,7 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import Profile from './pages/Profile';
+import MyCreations from './pages/MyCreations';
 import NotFound from './pages/NotFound';
 import { Box, Container, CircularProgress } from '@mui/material';
 
@@ -114,6 +115,14 @@ const AppContent = () => {
                 element={
                   <ProtectedRoute>
                     <Dashboard />
+                  </ProtectedRoute>
+                }
+              />
+              <Route
+                path="/my-creations"
+                element={
+                  <ProtectedRoute>
+                    <MyCreations />
                   </ProtectedRoute>
                 }
               />
