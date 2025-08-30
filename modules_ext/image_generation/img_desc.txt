@@ -1,0 +1,28 @@
+# Kids Coloring AI - Image Descriptions
+# Format: filename.jpg|Description of the image
+# Recommended dimensions: 800x1000px (portrait) or 1000x800px (landscape)
+# Style: Child-friendly, cartoon style, clear outlines, simple shapes, minimal text
+
+# Main Banner
+main_banner.jpg|A colorful banner with happy cartoon children painting and drawing together, with a rainbow and art supplies floating around them
+
+# Category Images
+animals_category.jpg|A collection of cute cartoon animals (lion, elephant, giraffe) peeking out from behind colorful bushes
+fantasy_category.jpg|Magical castle in the clouds with unicorns and rainbows, cartoon style with bold outlines
+space_category.jpg|Friendly aliens and spaceships in outer space with stars and planets, simple and colorful
+ocean_category.jpg|Underwater scene with smiling fish, a turtle, and a treasure chest surrounded by coral reefs
+
+# Example Coloring Pages
+butterfly.jpg|A large, detailed butterfly with symmetrical patterns on its wings, surrounded by flowers and leaves
+castle.jpg|A fairy tale castle with towers, flags, and a drawbridge over a moat, with mountains in the background
+dinosaur.jpg|A friendly T-Rex dinosaur standing in a prehistoric jungle with palm trees and a volcano in the distance
+unicorn.jpg|A majestic unicorn with a flowing mane standing in a field of flowers under a rainbow
+
+# UI Elements
+color_palette.png|A simple paint palette with splashes of primary colors (red, blue, yellow, green)
+paint_brush.png|A classic paintbrush with a wooden handle and bristles, minimal outline style
+undo_icon.png|A circular arrow pointing to the left, representing the undo action
+save_icon.png|A simple floppy disk icon with rounded corners, minimal outline style
+
+# Empty States
+default_image.jpg|A cartoon owl holding a blank canvas with a question mark, surrounded by art supplies

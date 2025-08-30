@@ -1,0 +1,33 @@
+# Image Descriptions for AI Generation
+# Format: filename.jpg|Description of the image (in English)
+# Recommended dimensions: 800x1000px (portrait) or 1000x800px (landscape)
+# Style: Child-friendly, cartoon style, clear outlines, simple shapes, minimal text
+
+# Main Page Images
+main_banner.jpg|A colorful banner featuring happy cartoon children painting and drawing together with a rainbow and art supplies floating around them
+welcome_illustration.jpg|A friendly cartoon bear holding a paintbrush, standing in front of an easel with a half-finished painting of a tree
+
+# Category Images
+animals_category.jpg|A collection of cute cartoon animals (lion, elephant, giraffe) peeking out from behind colorful bushes
+fantasy_category.jpg|Magical castle in the clouds with unicorns and rainbows, cartoon style with bold outlines
+space_category.jpg|Friendly aliens and spaceships in outer space with stars and planets, simple and colorful
+ocean_category.jpg|Underwater scene with smiling fish, a turtle, and a treasure chest surrounded by coral reefs
+
+# Example Coloring Pages
+butterfly_coloring.jpg|A large, detailed butterfly with symmetrical patterns on its wings, surrounded by flowers and leaves
+castle_coloring.jpg|A fairy tale castle with towers, flags, and a drawbridge over a moat, with mountains in the background
+dino_coloring.jpg|A friendly T-Rex dinosaur standing in a prehistoric jungle with palm trees and a volcano in the distance
+unicorn_coloring.jpg|A majestic unicorn with a flowing mane standing in a field of flowers under a rainbow
+
+# UI Elements
+color_palette_icon.png|A simple paint palette with splashes of primary colors (red, blue, yellow, green)
+paint_brush_icon.png|A classic paintbrush with a wooden handle and bristles, minimal outline style
+undo_icon.png|A circular arrow pointing to the left, representing the undo action
+save_icon.png|A simple floppy disk icon with rounded corners, minimal outline style
+
+# Empty States
+no_creations_yet.jpg|A cartoon owl holding a blank canvas with a question mark, surrounded by art supplies
+
+# Achievement Badges
+first_creation_badge.png|A golden star with a paint splatter in the center, simple and clean design
+master_artist_badge.png|A trophy with a paintbrush and pencil crossed behind it, colorful and fun

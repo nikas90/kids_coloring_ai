@@ -1,0 +1,15 @@
+# Core dependencies
+torch>=2.0.0 --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+diffusers==0.20.2
+transformers==4.30.2
+accelerate==0.20.3
+
+# Additional utilities
+Pillow>=10.0.0
+tqdm>=4.66.1
+
+# Optional: For better performance with some models
+# xformers>=0.0.22  # Optional, for better memory efficiency
